@@ -10,22 +10,19 @@ function App() {
       <section>
         <h2>Getting started with the web</h2>
         <p>
-          Climate change is a complex and multifaceted issue. To help you navigate through this topic, we've compiled a comprehensive guide that covers the basics and beyond. If you're new to this subject, we recommend starting with our{' '}
-          <a href="#overview">Overview of Climate Change</a> section.
+        Provides a practical introduction to web development for complete beginners.
         </p>
       </section>
       <section>
         <h2>HTML — Structuring the web</h2>
         <p>
-          Climate change is a complex and multifaceted issue. To help you navigate through this topic, we've compiled a comprehensive guide that covers the basics and beyond. If you're new to this subject, we recommend starting with our{' '}
-          <a href="#overview">Overview of Climate Change</a> section.
+        HTML is the language that we use to structure the different parts of our content and define what their meaning or purpose is. This topic teaches HTML in detail.
         </p>
       </section>
       <section>
         <h2>CSS - Styling the web</h2>
         <p>
-          Climate change is a complex and multifaceted issue. To help you navigate through this topic, we've compiled a comprehensive guide that covers the basics and beyond. If you're new to this subject, we recommend starting with our{' '}
-          <a href="#overview">Overview of Climate Change</a> section.
+        CSS is the language that we use to control our web content's style and layout, as well as adding behavior like animation. This topic provides comprehensive coverage of CSS.
         </p>
       </section>
     </div>
