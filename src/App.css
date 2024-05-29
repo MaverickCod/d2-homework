@@ -1,0 +1,50 @@
+/* App.css */
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f0f0f0;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 2px solid #333;
+}
+
+.heading {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 20px 0;
+}
+
+.heading h1 {
+  margin: 0;
+}
+
+.heading p {
+  margin-top: 10px;
+}
+
+section {
+  border-bottom: 1px solid #ccc;
+  padding: 20px 0;
+}
+
+
+h2 a {
+  color: #5500ff;
+  text-decoration: none; 
+}
+
+h2 a:hover {
+  text-decoration: underline; 
+}
+
+p {
+  color: #666;
+  line-height: 1.6;
+}
